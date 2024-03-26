@@ -1,0 +1,6 @@
+@sample
+Feature: Student Profile Work Flow
+
+Scenario: User login scenario
+Given I am "vramanathan@sympdebug" logging with "Vkyking@123a" credential
+https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3759385
